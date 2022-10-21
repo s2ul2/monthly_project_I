@@ -1,3 +1,6 @@
+streamlit
 plotly.express
 pandas
 io
+streamlit_option_menu
+PIL
